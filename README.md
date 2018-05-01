@@ -1,4 +1,4 @@
-# ux-and-design
+# UX and Design
 
 This project contains all materials and resources about UX and Design for
 **[campobassojs.com](http://www.campobassojs.com)**
