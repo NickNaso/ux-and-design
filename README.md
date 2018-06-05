@@ -10,7 +10,6 @@ This project contains all materials and resources about UX and Design for
 
 <a name="resources"></a>
 
-ppp1
 
 pppp2
 
