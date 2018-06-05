@@ -14,7 +14,6 @@ This project contains all materials and resources about UX and Design for
 
 - **[Logos](/logos)**
 
-
 <a name="team"></a>
 
 ## The Team
